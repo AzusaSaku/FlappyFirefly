@@ -1,0 +1,9 @@
+[package]
+name = "fly_me_to_the_moon"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["AzusaSaku <2272152194@qq.com>"]
+
+[dependencies]
+bracket-lib = "~0.8.1"
